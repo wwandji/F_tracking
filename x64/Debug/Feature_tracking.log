@@ -1,0 +1,2 @@
+﻿  Feature_tracking.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\string(384,1): fatal error C1088: Cannot flush compiler intermediate file: 'C:\Users\siand\AppData\Local\Temp\_CL_92020814ex': No space left on device
